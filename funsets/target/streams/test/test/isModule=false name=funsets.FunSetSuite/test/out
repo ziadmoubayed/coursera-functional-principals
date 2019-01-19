@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect removes elements that are not common[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter removes elements that are don't match predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall asserts all elements match predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists asserts at least one element matches the predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- map asserts that each element is change using the predicate[0m[0m

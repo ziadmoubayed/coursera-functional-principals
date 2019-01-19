@@ -1,0 +1,319 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package$.class
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$3.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> /home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> common.package
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> common.package$
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mergeCodeTables$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$3
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+172 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> ::
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> <init>
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> <repeated>
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> ?0
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> A
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Any
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> AnyRef
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> B
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Boolean
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Class
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> File
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> FileInputStream
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Function2
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> InputStream
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> List
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> None
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Nothing
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Object
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Option
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Predef
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> Some
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> String
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> URI
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> URL
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> _root_
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> child
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> children
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> classesDir
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> common
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> exists
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> file
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> foldLeft
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> getClass
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> getParentFile
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> getResource
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> io
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> java
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> package
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> projectDir
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> resourceFile
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> resourcePath
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> scala
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> subFile
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> toURI
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> +
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> A
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> A1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Any
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> B
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> C
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> CanBuildFrom
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Code
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Coll
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> GenTraversableOnce
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> K
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> List
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> None
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Object
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Some
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> String
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> T
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> T0
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> T1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> T2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> T3
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> T4
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> That
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> a
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> b
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> c
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> char
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> code
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> common
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> filter
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> groupBy
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> head
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> left
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> length
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> lookup
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> map
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> mapValues
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> math
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> package
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> prepend
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> remaining
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> right
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> str
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> table
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> text
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> times
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> until
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> x
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> y
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> z
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+22 items
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$3.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1547899054000)
+/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1547899054000)
+source stamps:
+2 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> hash(ef6b8eae787f3207d8c1742dc8f3d7ebd01573cb)
+binary stamps:
+2 items
+/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1539936150000)
+class names:
+2 items
+/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.runtime.AbstractFunction2
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWhl+RRCdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL3ppYWQvdGVzdC9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwWK/VBQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABAc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMQg9EPnQABENvZGVzcQB+AAxnJV5jdAAMYXNJbnN0YW5jZU9mc3EAfgAMmcIySXQADHN5bmNocm9uaXplZHNxAH4ADDOC3Zh0AARsZWZ0c3EAfgAMLz8moXQADSRpc0luc3RhbmNlT2ZzcQB+AAzkbWOYdAAGdHVwbGVkc3EAfgAMIunUx3QAB0h1ZmZtYW5zcQB+AAyvM+DVdAAIY2FuRXF1YWxzcQB+AAzcuCqZdAAOY29weSRkZWZhdWx0JDRzcQB+AAzpowCHdAAEY2hhcnNxAH4ADLgUBvx0AAZkZWNvZGVzcQB+AAyS9Pk0dAAETGVhZnNxAH4ADNSf+JB0AAhjb2RlQml0c3NxAH4ADASF1GR0AA1wcm9kdWN0UHJlZml4c3EAfgAMuH7iyXQABXVudGlsc3EAfgAM1rKAsXQACmZyZW5jaENvZGVzcQB+AAz0F+spdAAJbm90aWZ5QWxsc3EAfgAM6sYZDnQABWNoYXJzc3EAfgAMCuoq/3QADGlzSW5zdGFuY2VPZnNxAH4ADDRxsyN0AAY8aW5pdD5zcQB+AAzb7l0ZdAAFYXBwbHlzcQB+AAz+TOuvdAANZGVjb2RlZFNlY3JldHNxAH4ADCTov5x0AAI9PXNxAH4ADBL0or10AAVjbG9uZXNxAH4ADBgXJOF0AA9tZXJnZUNvZGVUYWJsZXNzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAxLz2fmdAAGJGluaXQkc3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJJNcjp0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAM4KmO8XQACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMIaZaiHQAAiMjc3EAfgAMMzCdF3QACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0cBPvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Al3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJdMAAlpbmhlcml0ZWRxAH4Al0wAB3BhcmVudHNxAH4Al3hxAH4AtHNxAH4Ar3VxAH4AkgAAAABzcQB+AK91cQB+AJIAAAAAc3EAfgCvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCzdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDMdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDNc3EAfgDAdAADQW55c3EAfgDEc3EAfgDHdXEAfgDKAAAAAnNxAH4AzHQABXNjYWxhcQB+ANN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWhl+RRCdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL3ppYWQvdGVzdC9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO9rjq54fzIH2MF0Lcjz1+vQFXPL
+external apis:
+0 items
+source infos:
+2 items
+/home/ziad/test/coursera/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAQAAAQAAAGsARCAgZGVmIGNvbWJpbmUodHJlZXM6IExpc3RbQ29kZVRyZWVdKTogTGlzdFtDb2RlVHJlZV0gPSB0cmVlcyBtYXRjaCB7AQAADrIBAAAANwEANyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAEMvaG9tZS96aWFkL3Rlc3QvY291cnNlcmEvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAQBDL2hvbWUvemlhZC90ZXN0L2NvdXJzZXJhL3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQBGbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IE5pbAEAAAAA
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaGWeKjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3ppYWQvdGVzdC9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaGX5FEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3ppYWQvdGVzdC9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

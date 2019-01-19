@@ -1,0 +1,46 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$3.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/common/package$.class, /home/ziad/test/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class)[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala, /home/ziad/test/coursera/patmat/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala, /home/ziad/test/coursera/patmat/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala, /home/ziad/test/coursera/patmat/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/ziad/test/coursera/patmat/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3da502d4, interfacing (CompilerInterface) with Scala compiler version 2.11.12[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/ziad/test/coursera/patmat/target/scala-2.11/classes:/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar:/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar:/home/ziad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[33mwarn[0m] [0m/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala:107: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following input: Nil[0m
+[0m[[33mwarn[0m] [0m  def combine(trees: List[CodeTree]): List[CodeTree] = trees match {[0m
+[0m[[33mwarn[0m] [0m                                                       ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.608099442 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/ziad/test/coursera/patmat/src/main/scala/patmat/Huffman.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	until, Code.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
